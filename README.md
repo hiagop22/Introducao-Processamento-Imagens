@@ -1,4 +1,4 @@
-In this repository you will find some image processing algorithms that were studied during Image Processing subject, such as: 
+In this repository you will find some image processing works that were made during Image Processing subject, such as: 
 
 - k-means
 - Interpolation
